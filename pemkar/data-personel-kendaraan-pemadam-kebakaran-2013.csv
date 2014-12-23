@@ -1,0 +1,96 @@
+nama_pos_pemadam,kotamadya,kecamatan,kelurahan,rt,rw,kodepos,alamat,personil_group_a,personil_group_b,personil_group_c,kendaraan,latitude,longitude
+Pos Puri Indah,Jakarta Barat,Kembangan,Cipete Selatan,,,12410,Jl. Puri Sakti,4,4,4,1,-6.2727535,106.8100474
+Kantor Sektor I,Jakarta Barat,Grogol Petamburan,Jelambar,,,12270,Jl. Perdana,10,10,8,6,-6.2441307,106.7547598
+Pos Joglo,Jakarta Barat,Kembangan,Joglo,,,11640,Jl. Raya Joglo,4,4,4,1,-6.2207801,106.7349944
+Kantor Sektor V,Jakarta Barat,Kebon Jeruk,Sukabumi Utara,,,11540,Jl. Kebon Jeruk Baru Blok C,7,7,6,3,-6.2028025,106.781616
+Kantor Sektor VI,Jakarta Barat,Kembangan,Kembangan Selatan,,,11610,Jl. Kembangan Raya,8,8,8,3,-6.1846385,106.7349835
+Pos Kresek,Jakarta Barat,Cengkareng,Duri Kosambi,,,11750,Jl. Kresek Raya,4,4,4,1,-6.1781513,106.7135312
+Kantor Sudin Jakarta Barat,Jakarta Barat,Grogol Petamburan,Tanjung Duren Utara,,,11470,Jl. Tanjung Duren Raya No. 1,25,26,27,15,-6.174027,106.787954
+Pos Keb. Jeruk Lama,Jakarta Barat,Kebon Jeruk,Kelapa Dua,,,10650,Jl. C,4,4,4,1,-6.1629484,106.8555467
+Pos Rawa Buaya,Jakarta Barat,Cengkareng,Rawa Buaya,,,11740,Jl. Hikmah Raya No. 30,4,4,4,1,-6.1621057,106.7318432
+Pos Lokasari,Jakarta Barat,Sawah Besar,Kartini,,,10750,Jl. Mangga Besar VII,4,4,4,1,-6.148118,106.827546
+Pos Krendang,Jakarta Barat,Tambora,Krendang,,,11260,Jl. Krendang Utara,4,3,4,1,-6.1480516,106.8041592
+Pos Angke,Jakarta Barat,Tambora,Angke,,,11330,Jl. Angke Indah Raya No. 25 A,4,4,4,1,-6.14763,106.79987
+Kantor Sektor VIII,Jakarta Barat,Kalideres,Kalideres,,,11840,Jl. Perumahan Citra Garden V,7,6,8,3,-6.144157,106.696574
+Pos Citra II,Jakarta Barat,Kalideres,Kalideres,,,11840,Jl. Perumahan Citra Garden 2,4,4,5,1,-6.144014,106.697084
+Pos Citra I,Jakarta Barat,Kalideres,Kalideres,,,11840,Jl. Perumahan Citra Garden 1,4,5,4,1,-6.1438851,106.6971067
+Kantor Sektor VII,Jakarta Barat,Cengkareng,Cengkareng Barat,,,11730,Jl. Taman Palem Lestari,11,12,12,5,-6.1352681,106.7234717
+Kantor Sektor IV,Jakarta Barat,Taman Sari,Pinangsia,,,11110,Jl. Kemukus,12,11,12,6,-6.1332491,106.8146044
+Kantor Sektor III,Jakarta Barat,Tambora,Roa Malaka,,,11230,Jl. Tiang Bendera I No. 1,10,10,10,6,-6.1331078,106.8082498
+Pos Duta Mas,Jakarta Barat,,,,,,"Jl. Wijaya, Komp. Duta Mas",4,4,4,1,,
+Pos Cengkareng,Jakarta Barat,,,,,,Jl. Cendrawasih,4,4,4,1,,
+Pos MPR/DPR,Jakarta Pusat,Tanah Abang,Gelora,,,10270,Jl. Gatot Subroto,6,6,6,3,-6.2094035,106.7998032
+Pos Karet,Jakarta Pusat,Tanah Abang,Bendungan Hilir,,,10210,Jl. Penjernihan Raya,5,5,5,2,-6.2028394,106.8059316
+Pos Kebon Melati,Jakarta Pusat,Tanah Abang,Kebon Melati,,,10230,Jl. H. Awaludin IV,4,4,4,2,-6.2001694,106.814167
+Pos TIM,Jakarta Pusat,Menteng,Cikini,,,10330,Jl. Cikini Raya No. 73,7,7,7,4,-6.1905136,106.83924
+Pos Tanah Abang,Jakarta Pusat,Tanah Abang,Kebon Kacang,,,10240,Jl. Fachrudin,3,3,3,1,-6.1846023,106.81502
+Sektor Cempaka Putih,Jakarta Pusat,Cempaka Putih,Cempaka Putih Barat,,,10520,Jl. Perkantoran Rawa Kerbau,9,9,9,4,-6.1831205,106.8683855
+Pos Johar Baru,Jakarta Pusat,Johar Baru,Johar Baru,,,10560,Jl. Johar Baru Utara,8,8,8,4,-6.1821414,106.857898
+Pos Jati Baru,Jakarta Pusat,Gambir,Cideng,,,10150,Jl. Taman Jati Baru,3,3,3,1,-6.1815524,106.8106259
+Pos Cempaka Putih,Jakarta Pusat,Cempaka Putih,Cempaka Putih Barat,,,10520,Jl. Cempaka Putih Barat,5,5,5,2,-6.1813538,106.8637223
+Pos Balaikota,Jakarta Pusat,Gambir,Gambir,,,10110,Jl. Medan Merdeka Selatan No.8-9,3,3,3,1,-6.1805748,106.8275197
+Pos Walikota JP,Jakarta Pusat,Gambir,Petojo Utara,,,10160,Jl. Tanah Abang I,3,3,3,1,-6.1705911,106.8195223
+Pos Setneg,Jakarta Pusat,Gambir,Gambir,,,10110,Jl. Veteran No. 3,3,3,3,1,-6.1682319,106.8296408
+Pos Serdang,Jakarta Pusat,Kemayoran,Utan Panjang,,,10650,Jl. Lapangan Pors,5,5,5,2,-6.163279,106.8619352
+Pos Bungur,Jakarta Pusat,Kemayoran,Bungur,,,10610,Jl. Bungur Besar Raya,6,6,6,2,-6.1629745,106.839805
+Kantor Sudin Jakarta Pusat,Jakarta Pusat,Gambir,Petojo Selatan,,,10130,Jl. KH. Zainul Arifin No.71,42,42,42,22,-6.160787,106.816615
+Pos Pasar Baru,Jakarta Pusat,Sawah Besar,Pasar Baru,,,10710,Jl. Lautze,6,6,6,2,-6.158449,106.8316265
+Sektor Kemayoran,Jakarta Pusat,Kemayoran,Kebon Kosong,,,10630,Jl. Kompleks Angkasa Pura,20,20,20,8,-6.1575949,106.8531507
+Sektor  Mangga Dua Selatan,Jakarta Pusat,Sawah Besar,Mangga Dua Selatan,,,10730,Jl. Mangga Dua Dalam,13,13,13,5,-6.1385377,106.8266996
+Pos Srengseng Sawah,Jakarta Selatan,Jagakarsa,Ciganjur,,,12630,Jl. Srengseng Sawah,5,4,5,2,-6.349074,106.8205652
+Kantor Sektor Jagakarsa,Jakarta Selatan,Jagakarsa,Ragunan,,,12550,Jl. Mohammad Kahfi No. 1,6,5,6,4,-6.347573,106.802045
+Pos Ciganjur,Jakarta Selatan,Jagakarsa,Ciganjur,,,12630,Jl. Brigif,4,5,4,1,-6.3440955,106.8015321
+Pos Pasar Minggu,Jakarta Selatan,Pasar Minggu,Pasar Minggu,,,12520,Jl. Lenteng Agung,5,5,5,2,-6.307892,106.8385584
+Kantor Sektor Pasar Minggu,Jakarta Selatan,Pasar Minggu,Pasar Minggu,,,12520,Jl. Salihara,10,11,10,5,-6.2830271,106.8431624
+Pos Fatmawati,Jakarta Selatan,Cilandak,Cilandak Barat,,,12430,Jl. RS. Fatmawati No. 113,5,5,5,1,-6.2799425,106.7967047
+Pos Pejaten,Jakarta Selatan,Pasar Minggu,Pejaten Barat,,,12510,Jl. Pejaten Raya,4,5,5,1,-6.2794454,106.8369803
+Kantor Sektor Pesanggrahan,Jakarta Selatan,Kebayoran Baru,Cipete Utara,,,12150,Jl. Haji Saidi,7,6,6,3,-6.2659119,106.8042902
+Pos Walikota,Jakarta Selatan,Kebayoran Baru,Cipete Utara,,,12150,Jl. Prapanca Raya,5,4,5,2,-6.2634546,106.8083075
+Pos Kalibata,Jakarta Selatan,Pancoran,Rawa Jati,,,12750,Jl. Dpr Raya Blok A-1 No.16,6,6,6,2,-6.253103,106.850444
+Pos Tanah Kusir,Jakarta Selatan,Kebayoran Lama,Kebayoran Lama Utara,,,12240,Jl. Ciputat Raya No.6,5,5,5,2,-6.250117,106.778127
+Pos Kebayoran Baru,Jakarta Selatan,Kebayoran Baru,Kramat Pela,,,12130,Jl. Radio II Keramat Pela,6,5,5,1,-6.2476861,106.7940606
+Pos Mampang Prapatan,Jakarta Selatan,Mampang Prapatan,Tegal Parang,,,12790,Jl. Kapten Tendean,6,6,5,1,-6.24026,106.82533
+Pos Cipulir,Jakarta Selatan,Pesanggrahan,Cipulir,,,12230,Jl. Ciledug Raya,5,5,5,1,-6.2376311,106.7625574
+Pos Grogol Utara,Jakarta Selatan,Kebayoran Lama,Grogol Utara,,,12210,Jl. Raya Kebayoran Lama,5,4,5,2,-6.221994,106.7796431
+Pos Casablanca,Jakarta Selatan,Setiabudi,Menteng Atas,,,12960,Jl. Menteng Pulo No. 46,6,6,6,1,-6.221278,106.842436
+Kantor Sudin Jakarta Selatan,Jakarta Selatan,,,,,,Jl.  Raya Pasar Jum'at,41,43,45,30,,
+Pos Cipete,Jakarta Selatan,,,,,,Jl. Melati Raya,6,6,6,1,,
+Pos Tebet,Jakarta Selatan,,,,,,"Jl. Sugiono, SH",15,15,15,3,,
+Pos Diklatkar,Jakarta Timur,Ciracas,Kelapa Dua Wetan,,,13730,Jl. Raya Ciracas No.113,4,4,4,2,-6.3281109,106.8816699
+Pos Kramat Jati,Jakarta Timur,Ciracas,Susukan,,,13750,Jl. Raya Bogor,4,4,4,1,-6.327814,106.881281
+Pos Taman Mini,Jakarta Timur,Cipayung,Lubang Buaya,,,13810,Jl. Taman Mini II No.3,3,4,3,6,-6.2967,106.891552
+Kantor Sektor,Jakarta Timur,Kramat Jati,Batu Ampar,,,13520,Jl. Poncol,7,8,8,4,-6.2895448,106.8588643
+Pos Batu Ampar,Jakarta Timur,Kramat Jati,Batu Ampar,,,13520,Jl. Batu Ampar,9,8,8,4,-6.2670408,106.8658134
+Kantor Sektor Makasar,Jakarta Timur,Makasar,Kebon Pala,,,13650,Jl. Kamboja,8,8,8,4,-6.2638112,106.8801365
+Kantor Sektor,Jakarta Timur,Duren Sawit,Pondok Bambu,,,13430,Jl. Saluran Inspeksi Kalimalang,9,9,9,6,-6.2468065,106.9092197
+Pos Cipinang Cimpedak,Jakarta Timur,Jatinegara,Cipinang Cempedak,,,13340,Jl. Kebon Nanas,8,9,8,4,-6.2319511,106.8772772
+Pos Klender/Malaka,Jakarta Timur,Duren Sawit,Malaka Jaya,,,13460,Jl. Bunga Rampai No. 10,3,3,3,1,-6.2245618,106.9344162
+Pos Cipinang,Jakarta Timur,Pulo Gadung,Pisangan Timur,,,13230,Jl. Pisangan Lama Timur,4,3,4,1,-6.2131532,106.8855868
+Pos Walikota JT,Jakarta Timur,Cakung,Pulogebang,,,13950,Jl. Sentra Primer,12,12,12,4,-6.2104868,106.9466389
+Kantor Sudin Jakarta Timur,Jakarta Timur,Matraman,Kebon Manggis,,,13150,Jl. Matraman Raya,18,18,16,10,-6.20887,106.85918
+Sektor Pemuda,Jakarta Timur,Pulo Gadung,Jati,,,13220,Jl. Pemuda,5,7,8,5,-6.1933622,106.8911175
+Pos Utan Kayu,Jakarta Timur,Matraman,Utan Kayu Utara,,,13120,Jl. Pengayoman,3,3,3,1,-6.193068,106.8699296
+Kantor Sektor,Jakarta Timur,Cakung,Cakung,,,13910,Jl. Cakung Barat,7,8,8,5,-6.1909521,106.9430674
+Pos Kayu Putih,Jakarta Timur,Pulo Gadung,Kayu Putih,,,13210,Jl. Pulo Mas Barat,4,3,4,1,-6.1768492,106.8789773
+Pos Duren Sawit,Jakarta Timur,,,,,,Jl. Swadaya,3,4,4,1,,
+Pos Cipayung,Jakarta Timur,,,,,,Jl. Raya Hankam,4,4,4,1,,
+Kantor Sudin Jakarta Utara,Jakarta Utara,Cilincing,Semper Barat,,,14130,Jl. Komp. Pemadam Kebakaran No. 113,32,32,20,13,-6.21774,106.836849
+Pos Pegangsaan Dua,Jakarta Utara,Kelapa Gading,Pegangsaan Dua,,,14250,Jl. Pegangsaan Dua,5,4,5,1,-6.168065,106.918169
+Pos Kelapa Gading,Jakarta Utara,Kelapa Gading,Kelapa Gading Barat,,,14240,Jl. Pelepah Indah Raya No. 3,5,5,5,2,-6.157116,106.904001
+Pos Gading Griya,Jakarta Utara,Cilincing,Sukapura,,,14140,Jl. Gading Griya Lestari,4,3,4,1,-6.141005,106.915474
+Pos Teluk Gong,Jakarta Utara,Penjaringan,Pejagalan,,,14450,Jl. Permata Indah No. 9,6,6,6,2,-6.1394842,106.778687
+Pos Gaya Motor,Jakarta Utara,Tanjung Priok,Sungai Bambu,,,14330,Jl. Gaya Motor,7,6,4,1,-6.137871,106.886851
+Pos Pademangan Barat,Jakarta Utara,Pademangan,Pademangan Barat,,,14420,Jl. Budi Mulya,5,4,4,1,-6.1311235,106.8416322
+Sektor  Ancol,Jakarta Utara,Pademangan,Ancol,,,14430,Jl. Ancol Barat,7,8,8,3,-6.1228577,106.8219486
+Sektor 2 ( Koja),Jakarta Utara,Koja,Rawa Badak Utara,,,14230,Jl. Anggrek No. 1,27,24,28,6,-6.115191,106.8938448
+Pos Muara Angke,Jakarta Utara,Penjaringan,Pluit,,,14450,Jl. Pendaratan Udang No. 3,5,6,4,1,-6.107421,106.774372
+Pos Muara Baru,Jakarta Utara,,,,,,Jl. Muara Baru Raya,5,5,7,2,,
+Pos Kali Baru,Jakarta Utara,,,,,,Jl. Kosambi Kalibaru,4,5,4,1,,
+Pos Rorotan,Jakarta Utara,,,,,,Jl. Pinus Raya,4,3,4,1,,
+Pos Podomoro,Jakarta Utara,,,,,,Jl.  Agung Podomoro,6,7,7,3,,
+Sektor  IV (Kelapa Gading),Jakarta Utara,,,,,,Jl. Komp. HI,9,10,6,4,,
+Pos Pademangan Timur,Jakarta Utara,,,,,,Jl. Pademangan IX,4,4,4,1,,
+Pos Binaria,Jakarta Utara,,,,,,Jl. Lodan Timur V,4,4,4,1,,
+Pos Pluit,Jakarta Utara,,,,,,Jl. Pluit Barat Terusan,7,8,8,4,,
+Pos Penjaringan,Jakarta Utara,,,,,,Jl.Jln. Tanah Merah,4,4,6,2,,
+Pos Pulau Karya,Kabupaten Kepulauan Seribu,,,,,,Pulau Karya Kepulauan seribu,11,10,11,4,,
