@@ -14,14 +14,3 @@ However, you are obligated to:
 * ***Keep open***: If you redistribute the database, or an adapted version of it, then you may use technological measures that restrict the work (such as DRM) as long as you also redistribute a version without such measures.
 
 Read [full-text](http://opendatacommons.org/licenses/odbl/1.0/).
-
-User Guide
-----------
-
-Note that the data set is located in separate branches that you can copy (or clone) individually.
-
-```
-$ git clone -b <dataset-branch-name> --single-branch https://github.com/OpenDataLabJakarta/datasets.git
-```
-
-(Command available in Git 1.7.10 or above)
